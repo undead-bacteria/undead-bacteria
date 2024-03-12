@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bikesh Shrestha</h1>
 <h3 align="center">A passionate full stack developer from Nepal</h3>
 
-- 🌱 I’m currently learning **java and next.js**
+- 🌱 I’m currently learning **node.js and express.js**
 
 - 📫 How to reach me **bikesh.stha2015@gmail.com**
 
