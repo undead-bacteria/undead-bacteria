@@ -2,6 +2,7 @@
 <h3 align="center">A passionate web developer from Nepal</h3>
 
 - 🌱 I’m currently learning **node.js and express.js**
+-    Proficient in React | Django | Node
 
 - 📫 How to reach me **bikesh.stha2015@gmail.com**
 
