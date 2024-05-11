@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **node.js and express.js**
   
-- 👨🏻‍💻 Proficient in React.js | Django | Node.js
+- 👨🏻‍💻 Proficient in React.js | Django
 
 - 📫 How to reach me **bikesh.stha2015@gmail.com**
 
