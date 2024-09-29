@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bikesh Shrestha</h1>
 <h3 align="center">A passionate web developer from Nepal</h3>
 
-- 🌱 I’m currently learning **node.js and express.js**
+- 🌱 I’m currently learning **Go lang**
   
-- 👨🏻‍💻 Proficient in React.js | Django
+- 👨🏻‍💻 Proficient in React.js | Django | Node.js
 
 - 📫 How to reach me **bikesh.stha2015@gmail.com**
 
