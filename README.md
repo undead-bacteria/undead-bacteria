@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bikesh Shrestha</h1>
-<h3 align="center">A passionate web developer from Nepal</h3>
+<h3 align="center">A passionate Full stack developer from Nepal</h3>
 
 - 🌱 I’m currently learning **Go lang**
   
