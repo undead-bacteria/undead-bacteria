@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bikesh Shrestha</h1>
 <h3 align="center">A passionate Full stack developer from Nepal</h3>
 
-- 🌱 I’m currently learning **Go lang**
+- 🌱 I’m currently learning **Java**
   
 - 👨🏻‍💻 Proficient in React.js | Django | Flask | Node.js | Express.js
 
