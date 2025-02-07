@@ -5,7 +5,7 @@
   
 - 👨🏻‍💻 Proficient in React.js | Django | Flask | Node.js | Express.js
 
-- Worked as a Junior Backend Developer @GenFourTech 
+- 💻 Worked as a Junior Backend Developer @GenFourTech 
 
 - 📫 How to reach me **bikesh.stha2015@gmail.com**
 
