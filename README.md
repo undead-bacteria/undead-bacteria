@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bikesh Shrestha</h1>
 <h3 align="center">A passionate Full stack developer from Nepal</h3>
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Nest JS**
   
-- 👨🏻‍💻 Proficient in React.js | Django | Flask | Node.js | Express.js
+- 👨🏻‍💻 Proficient in React.js | Django | Flask | Next.js | Express.js
 
 - 💻 Worked as a Junior Backend Developer @GenFourTech 
 
