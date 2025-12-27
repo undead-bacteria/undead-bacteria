@@ -3,7 +3,7 @@
 
 - 🌱 Currently exploring **Nest JS**
   
-- 👨🏻‍💻 Proficient in React.js | Django | Flask | Next.js | Express.js
+- 👨🏻‍💻 Proficient in MERN Stack | Django | FAST API
 
 - 💻 Software Engineer at SUSANKHYA FutureTech PVT. LTD. 
 
