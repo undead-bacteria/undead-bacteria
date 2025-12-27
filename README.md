@@ -5,7 +5,7 @@
   
 - 👨🏻‍💻 Proficient in React.js | Django | Flask | Next.js | Express.js
 
-- 💻 Former Junior Backend Developer at GenFourTech 
+- 💻 Software Engineer at SUSANKHYA FutureTech PVT. LTD. 
 
 - 📫 Reach me at: **bikesh.stha2015@gmail.com**
 
