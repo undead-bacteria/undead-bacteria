@@ -5,7 +5,7 @@
   
 - 👨🏻‍💻 Proficient in MERN Stack | Django | FAST API
 
-- 💻 Software Engineer at SUSANKHYA FutureTech PVT. LTD. 
+- 💻 Software Developer at SUSANKHYA FutureTech PVT. LTD. 
 
 - 📫 Reach me at: **er.bikesh.shrestha@gmail.com**
 
