@@ -3,7 +3,7 @@
 
 - 🌱 Currently exploring **Spring Boot**
   
-- 👨🏻‍💻 Proficient in MERN Stack | Django | FAST API
+- 👨🏻‍💻 Proficient in MERN Stack | Django | FAST API | Nest.js
 
 - 💻 Software Developer at SUSANKHYA FutureTech PVT. LTD. 
 
